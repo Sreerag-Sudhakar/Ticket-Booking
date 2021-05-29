@@ -1,0 +1,27 @@
+{
+  "name": "ticket-booking",
+  "version": "1.0.0",
+  "description": "Ticket Booking App",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Sreerag-Sudhakar/Ticket-Booking.git"
+  },
+  "keywords": [
+    "Ticket",
+    "Booking"
+  ],
+  "author": "Sreerag Sudhakar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Sreerag-Sudhakar/Ticket-Booking/issues"
+  },
+  "homepage": "https://github.com/Sreerag-Sudhakar/Ticket-Booking#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "firebase-admin": "^9.9.0"
+  }
+}
